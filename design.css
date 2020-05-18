@@ -2,7 +2,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 body{
-    background-image: url(./images/bg-top.svg);
+    background-image: url(./bg-top.svg);
     background-color:hsl(240, 78%, 98%) ;
     max-width: 90%;
     margin: auto;
